@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OjasMittalRupeek
+- 👋 Hi, I’m @OjasMittal
 - 👀 I’m interested in Machine Learning , Artificial Intelligence and development.
 - 🌱 I’m currently interning @Rupeek
 - 💞️ I’m looking to collaborate on new projects.
